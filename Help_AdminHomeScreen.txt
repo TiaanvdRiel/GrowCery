@@ -1,0 +1,16 @@
+GrowCery user help file
+========================================
+
+Welcome to your Admin Homescreen
+
+* Your information is displayed in the top left corner.
+* To veiw the transactions for your branch, click on the 
+  button labled "Veiw Transactions".
+* To veiw the analytics for your branch, click on the 
+  button labled "Veiw Analytics".
+* To veiw the stock for your branch, click on the 
+  button labled "Veiw Stock".
+* To regester a new account clcik on the button 
+  labled "Create A New Account".
+* To delete an existing account click on the 
+  button labled "Delete An Account".

@@ -1,0 +1,33 @@
+GrowCery user help file
+========================================
+
+To register and create a new account the 
+following criteria have to be met: 
+
+1.) All fields need to be entered.
+2.) The user`s name can only consist of letters.
+3.) The user`s surname can only consist of letters.
+4.) The user`s cellphone number needs to be 9 numbers 
+    long.
+5.) The user`s password must be:
+    - at least 8 characters long
+    - contain at least one lowercase letter
+    - contains at least one uppercase letter
+    - contain at least one number
+6.) The user`s ID number must: 
+    - be 13 digits long
+    - contain only numbers
+    - match the user`s given age
+    - match the user`s given gender
+    - be correclty entered (i.e. the check digit
+      must match the rest of the digits given0
+7.) The user must be at least 16 years of age in order 
+    to work as a teller.
+8.) If the user is selected to be an adim, no till will
+    be able to be assighned.
+9.) If the user is selected to be a till, a teller number
+    needs to be assighned.
+
+A new, unique AccountID will be generated for the user. 
+The user will have to remeber his/her AccountID and
+Password in order to log in. 

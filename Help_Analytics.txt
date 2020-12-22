@@ -1,0 +1,21 @@
+GrowCery user help file
+========================================
+
+To veiw the analytics of specific tellers:
+
+1.) Enter the date you want the data that will be showed
+    to start at next to the lable "Data Starts At".
+2.) Enter the data you want the data that wil be showed to 
+    end at next to the lable "Data Ends At".
+3.) Select wheter you want the graph to show the total value
+    of the teller`s transactions for each day, or the total 
+    number of items sold by the teller each day by selecting the 
+    appropriate choice in the box labled "Style Of Chart".
+4.) Select the teller who`s data you wich to veiw by clicking
+    on the teller in the table labled "Accounts".
+5.) A summary of all of the transactions preformed by the teller
+    that fall within the date will be displayd in the table 
+    "Transactions Within Period".
+6.) The data will also be represented as a graph.
+7.) Data regarding the tellers preformance will also be shown 
+    in the bottem left. 

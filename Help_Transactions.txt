@@ -1,0 +1,15 @@
+GrowCery user help file
+========================================
+
+To veiw the transactions preformed by a specific
+teller you must: 
+
+1.) Select a teller by clicking on the desired teller in 
+    the table labled "Accounts".
+2.) Click on the button labled "Show Transactions".
+3.) You can then veiw the details of specific transactions
+    by clicking on the transaction in the table labled 
+    "Transactions".
+4.) The information details regarding the specifc 
+    transaction will be in the box labled 
+    "Transaction Details". 

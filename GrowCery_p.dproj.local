@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/18 14:25:08.212.pas,F:\Documents  - Mass Storage\RAD Studio\Projects\Unit1.pas=D:\GrowCery\frmGrowCery_u.pas</Transaction>
+    <Transaction>2018/03/18 14:25:08.213.dfm,F:\Documents  - Mass Storage\RAD Studio\Projects\Unit1.dfm=D:\GrowCery\frmGrowCery_u.dfm</Transaction>
+    <Transaction>2018/03/18 14:25:46.612.dproj,F:\Documents  - Mass Storage\RAD Studio\Projects\Project1.dproj=D:\GrowCery\GrowCery_p.dproj</Transaction>
+    <Transaction>2018/03/19 19:51:34.681.pas,D:\GrowCery\Unit1.pas=D:\GrowCery\frmAdminHomeScreen.pas</Transaction>
+    <Transaction>2018/03/19 19:51:34.682.dfm,D:\GrowCery\Unit1.dfm=D:\GrowCery\frmAdminHomeScreen.dfm</Transaction>
+    <Transaction>2018/03/19 19:51:55.377.pas,D:\GrowCery\frmAdminHomeScreen.pas=</Transaction>
+    <Transaction>2018/03/19 19:51:55.377.dfm,D:\GrowCery\frmAdminHomeScreen.dfm=</Transaction>
+    <Transaction>2018/03/19 19:53:05.978.pas,D:\GrowCery\Unit1.pas=D:\GrowCery\frmAdminHomeScreen_u.pas</Transaction>
+    <Transaction>2018/03/19 19:53:05.978.dfm,D:\GrowCery\Unit1.dfm=D:\GrowCery\frmAdminHomeScreen_u.dfm</Transaction>
+    <Transaction>2018/03/19 20:03:44.889.pas,D:\GrowCery\Unit1.pas=D:\GrowCery\frmLogIn_u.pas</Transaction>
+    <Transaction>2018/03/19 20:03:44.889.dfm,D:\GrowCery\Unit1.dfm=D:\GrowCery\frmLogIn_u.dfm</Transaction>
+    <Transaction>2018/03/19 20:47:55.425.pas,D:\GrowCery\Unit1.pas=D:\GrowCery\frmTellerHomeScreen_u.pas</Transaction>
+    <Transaction>2018/03/19 20:47:55.425.dfm,D:\GrowCery\Unit1.dfm=D:\GrowCery\frmTellerHomeScreen_u.dfm</Transaction>
+    <Transaction>2018/03/21 15:03:21.640.pas,D:\GrowCery\3. GrowCery\Unit1.pas=D:\GrowCery\3. GrowCery\frmPointOfSale_u.pas</Transaction>
+    <Transaction>2018/03/21 15:03:21.640.dfm,D:\GrowCery\3. GrowCery\Unit1.dfm=D:\GrowCery\3. GrowCery\frmPointOfSale_u.dfm</Transaction>
+    <Transaction>2018/03/21 17:33:49.524.pas,D:\GrowCery\4. GrowCery\Unit1.pas=D:\GrowCery\4. GrowCery\frmAnalytics_u.pas</Transaction>
+    <Transaction>2018/03/21 17:33:49.524.dfm,D:\GrowCery\4. GrowCery\Unit1.dfm=D:\GrowCery\4. GrowCery\frmAnalytics_u.dfm</Transaction>
+    <Transaction>2018/03/22 17:11:24.270.pas,D:\GrowCery\5. GrowCery\Unit1.pas=D:\GrowCery\5. GrowCery\frmStock_u.pas</Transaction>
+    <Transaction>2018/03/22 17:11:24.270.dfm,D:\GrowCery\5. GrowCery\Unit1.dfm=D:\GrowCery\5. GrowCery\frmStock_u.dfm</Transaction>
+    <Transaction>2018/03/23 15:38:44.450.pas,D:\GrowCery\7. GrowCery\Unit1.pas=D:\GrowCery\7. GrowCery\frmCreateNewAccount.pas</Transaction>
+    <Transaction>2018/03/23 15:38:44.450.dfm,D:\GrowCery\7. GrowCery\Unit1.dfm=D:\GrowCery\7. GrowCery\frmCreateNewAccount.dfm</Transaction>
+    <Transaction>2018/03/23 15:40:35.618.pas,D:\GrowCery\7. GrowCery\frmCreateNewAccount.pas=</Transaction>
+    <Transaction>2018/03/23 15:40:35.619.dfm,D:\GrowCery\7. GrowCery\frmCreateNewAccount.dfm=</Transaction>
+    <Transaction>2018/03/23 15:41:48.514.pas,D:\GrowCery\7. GrowCery\Unit1.pas=D:\GrowCery\7. GrowCery\frmCreateNewAccount_u.pas</Transaction>
+    <Transaction>2018/03/23 15:41:48.514.dfm,D:\GrowCery\7. GrowCery\Unit1.dfm=D:\GrowCery\7. GrowCery\frmCreateNewAccount_u.dfm</Transaction>
+    <Transaction>2018/03/23 17:33:40.093.pas,D:\GrowCery\7. GrowCery\Unit1.pas=D:\GrowCery\7. GrowCery\frmDeleteAnAccount_u.pas</Transaction>
+    <Transaction>2018/03/23 17:33:40.093.dfm,D:\GrowCery\7. GrowCery\Unit1.dfm=D:\GrowCery\7. GrowCery\frmDeleteAnAccount_u.dfm</Transaction>
+    <Transaction>2018/04/04 13:55:44.610.pas,D:\GrowCery\10. GrowCery\Unit1.pas=D:\GrowCery\10. GrowCery\frmTransactions_u.pas</Transaction>
+    <Transaction>2018/04/04 13:55:44.610.dfm,D:\GrowCery\10. GrowCery\Unit1.dfm=D:\GrowCery\10. GrowCery\frmTransactions_u.dfm</Transaction>
+    <Transaction>2018/04/06 14:03:42.091.pas,D:\GrowCery\10. GrowCery\Unit1.pas=D:\GrowCery\10. GrowCery\dmDatabase_u.pas</Transaction>
+    <Transaction>2018/04/06 14:03:42.091.dfm,D:\GrowCery\10. GrowCery\Unit1.dfm=D:\GrowCery\10. GrowCery\dmDatabase_u.dfm</Transaction>
+    <Transaction>2018-05-25 22:08:50.255.pas,D:\GrowCery\17. GrowCery\Unit1.pas=D:\GrowCery\17. GrowCery\clsDisplayUserInfo_u.pas</Transaction>
+    <Transaction>2018-07-09 19:30:52.539.pas,D:\GrowCery\24. GrowCery - Analytics Data\Unit1.pas=D:\GrowCery\24. GrowCery - Analytics Data\clsAnalyticsCalculator_u.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="frmGrowCery_u.pas"/>
+    <File Path="frmGrowCery_u.dfm"/>
+    <File Path="frmLogIn_u.pas"/>
+    <File Path="frmLogIn_u.dfm"/>
+    <File Path="frmAdminHomeScreen_u.pas"/>
+    <File Path="frmAdminHomeScreen_u.dfm"/>
+    <File Path="frmTransactions_u.pas"/>
+    <File Path="frmTransactions_u.dfm"/>
+    <File Path="frmAnalytics_u.pas"/>
+    <File Path="frmAnalytics_u.dfm"/>
+    <File Path="frmStock_u.pas"/>
+    <File Path="frmStock_u.dfm"/>
+    <File Path="frmCreateNewAccount_u.pas"/>
+    <File Path="frmCreateNewAccount_u.dfm"/>
+    <File Path="frmDeleteAnAccount_u.pas"/>
+    <File Path="frmDeleteAnAccount_u.dfm"/>
+    <File Path="frmTellerHomeScreen_u.pas"/>
+    <File Path="frmTellerHomeScreen_u.dfm"/>
+    <File Path="frmPointOfSale_u.pas"/>
+    <File Path="frmPointOfSale_u.dfm"/>
+    <File Path="dmDatabase_u.pas"/>
+    <File Path="dmDatabase_u.dfm"/>
+    <File Path="clsDisplayUserInfo_u.pas"/>
+    <File Path="clsAnalyticsCalculator_u.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

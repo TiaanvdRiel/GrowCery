@@ -1,0 +1,9 @@
+GrowCery user help file
+========================================
+
+To veiw the stock supplied by different suppliers:
+
+1.) Select the supplier you wich to veiw by clicking
+    on the supplier in the table labled "Suppliers".
+2.) All of the items provided by the selected supplier
+    will be displayed in the table labled "Items".

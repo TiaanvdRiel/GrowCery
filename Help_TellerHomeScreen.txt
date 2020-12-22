@@ -1,0 +1,21 @@
+GrowCery user help file
+========================================
+
+Welcome to your Teller Homescreen
+
+* Your information is displayed in the top left corner.
+* To start a new shift and go to your POS system,
+  press the button labled "Start Shift".
+* Your "Total Numeber Of Items Sold" and
+  "Total Value Of Transactions" for today will be 
+  displayed on the corresponding panels. 
+* Your "Total Numeber Of Items Sold" and
+  "Total Value Of Transactions" for yesterday will be 
+  displayed on the corresponding panels. 
+* The amount of items you sold more or less, as well
+  as the total value your transactions have increased
+  or decreased from the previous day will also be shown.
+
+* If you did not preform any transactions the previous day
+  (did not work) the lable will show "No Data Found For
+  Yesterday".
